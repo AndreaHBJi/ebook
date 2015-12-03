@@ -50,7 +50,9 @@
 7. [深入理解linux内核（中文第三版）](https://github.com/onestraw/ebook/blob/master/03_operating_system/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3linux%E5%86%85%E6%A0%B8%EF%BC%88%E4%B8%AD%E6%96%87%E7%AC%AC%E4%B8%89%E7%89%88%EF%BC%89.pdf)
 8. [Linux内核编程](https://github.com/onestraw/ebook/blob/master/03_operating_system/Linux%E5%86%85%E6%A0%B8%E7%BC%96%E7%A8%8B.pdf)
 9. [The Linux Kernel Module Programming Guide](https://github.com/onestraw/ebook/blob/master/03_operating_system/The%20Linux%20Kernel%20Module%20Programming%20Guide.pdf)
-10. [Linux Device Drivers.3rd.Edition](https://github.com/onestraw/ebook/blob/master/03_operating_system/Linux.Kernel.Development.3rd.Edition.pdf)
+10. [Linux Device Drivers.3rd.Edition](https://github.com/onestraw/ebook/blob/master/03_operating_system/Linux.Kernel.Development.3rd.Edition.pdf),[中文版](http://oss.org.cn/kernel-book/ldd3/)
+11. [鸟哥的Linux私房菜--Basic](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
+12. [鸟哥的Linux私房菜--Server](http://vbird.dic.ksu.edu.tw/linux_server/)
 
 ###网络协议
 1. [TCP/IP详解卷I](https://github.com/onestraw/ebook/blob/master/04_network/TCP-IP%E8%AF%A6%E8%A7%A3%E5%8D%B7I.pdf)
@@ -58,6 +60,8 @@
 3. [TCP/IP详解卷III](https://github.com/onestraw/ebook/blob/master/04_network/TCP-IP%E8%AF%A6%E8%A7%A3%E5%8D%B7III.pdf)
 4. [图解TCP/IP](https://github.com/onestraw/ebook/blob/master/04_network/%E5%9B%BE%E8%A7%A3TCP_IP_%E7%AC%AC5%E7%89%88.pdf)
 5. [HTTP权威指南](https://github.com/onestraw/ebook/blob/master/04_network/HTTP%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.pdf)
+
+###Android
 
 ###其它
 1. [How Google Tests Software](https://github.com/onestraw/ebook/blob/master/09_other/How-Google-Tests-Software.pdf)
@@ -68,7 +72,6 @@
 6. [数学之美](https://github.com/onestraw/ebook/blob/master/09_other/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.pdf)
 7. [代码之美](https://github.com/onestraw/ebook/blob/master/09_other/%E4%BB%A3%E7%A0%81%E4%B9%8B%E7%BE%8EBeautiful%20Code.pdf)
 8. [高效程序员的45个习惯](https://github.com/onestraw/ebook/blob/master/09_other/%E9%AB%98%E6%95%88%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%8445%E4%B8%AA%E4%B9%A0%E6%83%AF.pdf)
-
 ###链接
 
 1. [Google编程风格指南](https://github.com/zh-google-styleguide/zh-google-styleguide)
